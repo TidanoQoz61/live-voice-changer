@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="live-voice-changer" width="840" />
-
 # LiveVoiceChanger — Low-Latency Live Voice Changer for Discord, Games and OBS (One-Command Setup, Prebuilt Release)
 
 <p><strong>LiveVoiceChanger — Low-Latency Live Voice Changer for Discord, Games and OBS (One-Command Setup, Prebuilt Release): Change your voice live with 40ms latency. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
